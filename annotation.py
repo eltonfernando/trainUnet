@@ -2,7 +2,7 @@ import cv2
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-df=pd.read_csv('./via_export_csv60.csv')
+df=pd.read_csv('./via_export_csv80.csv')
 path_img='./data/'
 ##filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
 
